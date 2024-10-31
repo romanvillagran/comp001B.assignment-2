@@ -27,22 +27,22 @@ footer {
 }
 
 header {
-
+	margin-top: cm;
 }
 
 img {
-	max-width: 50%;
+	max-width: 58%;
 }
 
 main {
 	float: left;
-	width: 59%;
+	width: 50%;
 	margin-top: 3em;
 }
 
 nav {
 float: left;
-width: 10%;
+width: 12%;
 margin-top: 3em;
 }
 
